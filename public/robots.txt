@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+
+# India Engineering Works - Sugar Plant Machinery Manufacturer
+# Muzaffarnagar, Uttar Pradesh, India
+# Contact: +91 98372 00396
+
+Sitemap: https://indiaengineeringworks.com/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
